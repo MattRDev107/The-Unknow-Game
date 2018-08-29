@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arms
+  - Projectile
+  - Enemy
+  - Projectilek
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground & Wall
+  - Casing
+  - Projectiles
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 64919783
+    locked: 0
+  - name: Wall & Ground
+    uniqueID: 1168702233
+    locked: 0
+  - name: Background
+    uniqueID: 2857031501
+    locked: 0
+  - name: Paticals
+    uniqueID: 3793725535
+    locked: 0
